@@ -1,0 +1,25 @@
+{
+  "name": "decorators",
+  "version": "1.0.0",
+  "description": "Examples of simple JavaScript Decorators",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crufener/sample-decorators.git"
+  },
+  "keywords": [
+    "Javascript",
+    "es7-decorators",
+    "typescript",
+    "es6-proxies"
+  ],
+  "author": "Craig Rufener",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crufener/sample-decorators/issues"
+  },
+  "homepage": "https://github.com/crufener/sample-decorators#readme"
+}
